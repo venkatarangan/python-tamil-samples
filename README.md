@@ -14,3 +14,15 @@ You can listen to the output audio that’s produced by the code above, [here](h
 
 The above were possible, thanks, to the numerous readymade packages that are available for free, and, the magic of cloud – in these two cases I am using Google Cloud, which required no configuration or key for trial runs. You may use Bing if you have an Azure API key.
 
+##Tamil Letters Count ##
+Uses the [Grapheme](https://github.com/alvinlindstam/grapheme) package, which is a wonderful package to perform string operations on language recognized characters. 
+
+About 15 years ago, when I faced the issue of counting of number of characters for a given Tamil string, the standard library functions were not useful for non-latin scripts, so  I had to [write a paper for a conference and submitted code written in .NET, Perl and VB.NET](https://venkatarangan.com/blog/2004/12/counting-letters-in-an-unicode-string/) to solve this problem, specific for Tamil. Now, Grapheme makes it super easy and is updated upto Unicode 12.0.0 standard. 
+
+
+## Vision and Translate ## 
+
+This is a Quick 'n' Dirty code snippet that uses Google Cloud Vision OCR to extract the Tamil text from a given image containing Tamil text, then uses Google Cloud Translate to translate the Tamil text to English. The text parsing needs a lot more work to be better. 
+
+
+
