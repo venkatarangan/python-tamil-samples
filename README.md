@@ -25,6 +25,7 @@ About 15 years ago, when I faced the issue of counting of number of characters f
 This is a Quick 'n' Dirty code snippet that uses Google Cloud Vision OCR to extract the Tamil text from a given image containing Tamil text, then uses Google Cloud Translate to translate the Tamil text to English. The text parsing needs a lot more work to be better. 
 
 Tamil Text present in the image file as recognized by the Cloud Vision OCR: 
+~~~~
 புதிய இடத்தில் அதெல்லாம் பலிக்குமா?
 பெரியவர் ஆறுமுகத்தோடு மல்லிகா நாகப்பட்டினத்
 தில் கப்பலேறியபோது வழியனுப்ப வந்தவர்கள் வாய்
@@ -34,7 +35,9 @@ Tamil Text present in the image file as recognized by the Cloud Vision OCR:
 "மாமாவின் கடைசி ஆசையை நான் நிறைவேற்ற
 வேண்டாமா? அந்த ஆத்மாவுக்குச் சாந்தி கிடைக்க
 வேண்டாமா? கோடை விடுமுறையில் தானே போகிறேன்.
-
+~~~~
 The output English translation:
-Will it be sacrificed in the new place? When Mallika sailed to Nagapattinam with the eldest, the passersby cried without a word. &quot;Do I not fulfill my uncle&#39;s last wish? Do I not find peace with that soul? I am going on summer vacation.
 
+~~~~
+Will it be sacrificed in the new place? When Mallika sailed to Nagapattinam with the eldest, the passersby cried without a word. &quot;Do I not fulfill my uncle&#39;s last wish? Do I not find peace with that soul? I am going on summer vacation.
+~~~~
