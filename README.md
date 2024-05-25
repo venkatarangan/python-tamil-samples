@@ -1,8 +1,15 @@
-# Python-Samples: My coding experiments using Python language.
+# Python-Tamil-Samples
 
 ## Overview
 
-A set of quick samples that I wrote for the purpose of experimentations using Python language. The ones I like are around 2019 for the Speech to text, text to speech and Google Vision OCR for Tamil language, you might find something useful.
+A set of quick samples that I wrote for the purpose of experimentations using Python language on handling Tamil text. These were written around 2019. 
+
+Details are in the following blog posts:
+ 1. Python and Google Cloud Vision for Tamil text [https://venkatarangan.com/blog/2019/09/python-and-google-cloud-vision-for-tamil-text/]
+
+ 1. Tools and Applications in Tamil [https://venkatarangan.com/blog/2019/09/tools-applications-available-for-tamil/]
+
+ 1. Python code snippets for Speech in Tamil [https://venkatarangan.com/blog/2019/08/python-code-snippets-for-speech-in-tamil/]
 
 ## Disclaimer
 
