@@ -2,7 +2,7 @@
 
 ## Overview
 
-A set of quick samples that I wrote for the purpose of experimentations using Python language on handling Tamil text. These were written around 2019. 
+A set of quick samples that I wrote for the purpose of experimentation of using Python language on handling Tamil text. These were written around 2019. 
 
 Details are in the following blog posts:
  1. Python and Google Cloud Vision for Tamil text [https://venkatarangan.com/blog/2019/09/python-and-google-cloud-vision-for-tamil-text/]
