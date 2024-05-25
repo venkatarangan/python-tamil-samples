@@ -11,6 +11,8 @@ Details are in the following blog posts:
 
  1. Python code snippets for Speech in Tamil [https://venkatarangan.com/blog/2019/08/python-code-snippets-for-speech-in-tamil/]
 
+![Cover image](/github-preview.jpg)
+
 ## Disclaimer
 
 These are simple examples and trials. Please treat them as as such. Some might be useful too, but that's an unintended consequence. 
