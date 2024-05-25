@@ -1,4 +1,4 @@
-# Python-Tamil-Samples
+# python-tamil-samples
 
 ## Overview
 
